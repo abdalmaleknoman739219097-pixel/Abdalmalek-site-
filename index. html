@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>صفحتي الاولى </title>
+</head>
+<body bgcolor="#8EAADB" dir="rtl">
+<marquee direction="right" bgcolor="#EF865D"  width=50% height=100px behavior="alternate" scrollamount=     scrolldelay=100  loop=3>
+<font size=7 face="Arabic Typesetting" color="white"><b>اهلا بكم في موقعنا الالكتروني</b></font>
+</marquee>
+<br>
+<br>
+<p>
+في موقعنا نقدم لكم كل ما يتعلق بالتقنية ( دروس واخر تطورات التكنولوجيا )
+</p>
+<br>
+<a href="folder/page2.html" target=_blank>
+انتقل للصفحة الثانية
+</a><br><br><br>
+<a href="#lang">
+لغات برمجة
+</a>
+<br>
+<a href="#office">
+برامج الاوفيس
+</a>
+<br>
+&nbsp; 
+تطوير&nbsp; &nbsp; &nbsp; &nbsp;  الويب
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p id="lang">
+لغات البرمجة :
+لغة سي بلس والجافا والفيجوال بيسك
+</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p id="office">
+برامج الاوفيس :
+الوورد و الاكسل والبوربوينت
+</p>
+
+
+</body>
+</html>
